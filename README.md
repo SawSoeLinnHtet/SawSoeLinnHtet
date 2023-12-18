@@ -1,4 +1,4 @@
-![Creative Studio Name LinkedIn Article Cover Image](https://github.com/SawSoeLinnHtet/SawSoeLinnHtet/assets/95210944/c63a602f-d8aa-4742-8c63-c0a5d0307dcd)
+![Creative Studio Name LinkedIn Article Cover Image](https://github.com/SawSoeLinnHtet/SawSoeLinnHtet/assets/95210944/6358c08b-4f3b-4193-95b4-18bb44c9d9e4)
 -
 
 # Hello, I am Saw Soe Linn Htet
