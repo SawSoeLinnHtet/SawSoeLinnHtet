@@ -9,7 +9,7 @@
 \
 :school: **Education**
 
-Karen Baptist Theological Seminary - Libral Art Programme
+Karen Baptist Theological Seminary - Liberal Art Programme
 
   Major : :computer: Computer Science
   
