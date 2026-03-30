@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Myanmar-brightgreen?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-5+ Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-4+ Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square" />
 </p>
 
