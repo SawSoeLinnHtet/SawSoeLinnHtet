@@ -1,52 +1,39 @@
-# Hello, I am Saw Soe Linn Htet
+# Hi there, I'm Saw Soe Linn Htet 👋
 
-### A Web Developer From Myanmar
-\
-\
-\
-:school: **Education**
+### 🚀 Full-Stack Web Developer | Vue.js & Laravel Enthusiast
+I am a passionate Web Developer from **Myanmar** with a focus on building scalable, user-centric web applications. I enjoy bridging the gap between robust backend logic and elegant frontend experiences.
 
-Karen Baptist Theological Seminary - Liberal Art Programme
+---
 
-  Major : :computer: Computer Science
-  
-  Year : :calendar: 2018 - 2023
-\
-\
-\
-:space_invader: **Technical Skills**
+### 📊 My GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SawSoeLinnHtet&theme=tokyonight&hide_border=true)
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+#### **Weekly Productivity**
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=SawSoeLinnHtet&theme=tokyonight&hide_border=true)
 
+---
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+### 🛠️ Tech Stack & Language Mastery
 
+#### **Top Languages & Tools**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SawSoeLinnHtet&layout=compact&theme=tokyonight&hide_border=true)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+| Category | technologies |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Mint](https://img.shields.io/badge/-Mint-87CF3E?logo=linux-mint&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) |
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+### 🎓 Education
+* **Karen Baptist Theological Seminary**
+    * *Liberal Arts Programme* — **Major in Computer Science** 💻
+    * *2018 — 2023*
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Solus](https://img.shields.io/badge/Solus-%23f2f2f2.svg?style=for-the-badge&logo=solus&logoColor=5294E2)
+---
 
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-	
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<!---
-SawSoeLinnHtet/SawSoeLinnHtet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Let's Connect
+* **Location:** Myanmar 🇲🇲
+* **Currently Learning:** Advanced Nuxt 3 Composition API & Laravel Microservices
